@@ -130,21 +130,5 @@ The comparison demonstrates the impact of:
 
 ---
 
-## Future Improvements
-
-- Hyperparameter tuning using GridSearchCV
-- Cross-validation
-- Random Forest Classifier
-- XGBoost
-- ROC Curve and AUC analysis
-- Model deployment using Flask or Streamlit
-
----
-
-## Author
-
-Mahnoor Sayyed
-
-Business Data Analytics Student
 
 GitHub: https://github.com/manoor-dev
